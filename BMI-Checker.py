@@ -25,3 +25,5 @@ if (25 <= bmi) and (bmi < 30):
     result = "肥満（軽）"
 if bmi >= 30:
     result = "肥満（重）"
+
+print("判定：", result)
